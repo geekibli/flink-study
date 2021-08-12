@@ -1,0 +1,12 @@
+sersor1,32,81.1
+sersor1,31,81.2
+sersor1,33,81.3
+sersor2,131,81.4
+sersor2,132,81.4
+sersor2,133,81.4
+sersor3,12,81.5
+sersor4,13,81.6
+sersor4,13,81.6
+sersor5,1221,81.7
+sersor5,1222,81.7
+sersor6,11,81.8
