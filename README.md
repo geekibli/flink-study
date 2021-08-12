@@ -14,10 +14,7 @@ https://geekibli.github.io/wiki/apache-flink-overview/
 [你所知道的算子都在这里](https://geekibli.github.io/wiki/Flink-%E4%BD%A0%E6%89%80%E7%9F%A5%E9%81%93%E7%9A%84%E7%AE%97%E5%AD%90%E9%83%BD%E5%9C%A8%E8%BF%99/)    
 /Users/gaolei/Documents/DemoProjects/flink-start/src/main/java/com/ibli/flink/part4/SuanziDemo.java    
 [Apache Flink到底支持哪些数据类型](https://geekibli.github.io/wiki/Flink-%E5%88%B0%E5%BA%95%E6%94%AF%E6%8C%81%E5%A4%9A%E5%B0%91%E4%B8%AD%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/)  
-
-
-
-
+?
 ## 学习文档
 [Apache China 社区视频专栏](https://space.bilibili.com/33807709?spm_id_from=333.788.b_765f7570696e666f.2)
 
